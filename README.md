@@ -234,4 +234,5 @@ order by Order_Priority, Ship_Mode
 ---The company is not consistently using Express Air for high-priority orders, they're also wasting money using Express Air for low and unspecified priority orders
 ```
 
+### Note
 For the file containing the SQL queries and solutions go to the files section of this repository.
