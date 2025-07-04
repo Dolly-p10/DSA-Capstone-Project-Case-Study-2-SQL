@@ -16,7 +16,7 @@ Kultra Mega Stores (KMS) is seeking to understand how customer behavior, product
 
 ### Project Objective
 
-To analyze KMS's sales and order data using SQL, identify revenue drivers and inefficiencies, uncover customer trends, and deliver actionable insights that can guide strategy and improve overall business performance.
+To analyze KMS sales and order data using SQL, identify revenue drivers and inefficiencies, uncover customer trends, and deliver actionable insights that can guide strategy and improve overall business performance.
 
 ### Steps Followed
 
